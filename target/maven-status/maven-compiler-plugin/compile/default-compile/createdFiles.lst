@@ -1,0 +1,5 @@
+com\ilya\threadrelay\Foo.class
+com\ilya\threadrelay\AppRunner.class
+com\ilya\threadrelay\ThreadA.class
+com\ilya\threadrelay\ThreadB.class
+com\ilya\threadrelay\ThreadC.class
